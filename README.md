@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kringen (Erik Kringen).  I currently live in Knoxville, Tennessee, USA
-- 👀 I’m interested in data engineering and cloud engineering/automation.
+- 👀 I’m interested in linux, data engineering, security, and cloud engineering/automation.
 - 🌱 I’m currently learning Kubernetes Administration
 - 💞️ I’m looking to collaborate on anything related to Azure Infrastructure as Code, Databricks, and Kubernetes! 
 - 📫 How to reach me: ekringen@gmail.com
